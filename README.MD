@@ -1,7 +1,5 @@
-Given the URL: https://anyflip.com/xugzr/odkz
-Extract contents of 'title' tag as page names
-Go to https://online.anyflip.com/xugzr/odkz/files/mobile/1.jpg
-Go from pages 1-X
-	Download image to folder
-	if page x has title = AnyFlip Online Service Error
-		then stop
+# Introduction
+
+Excuse the main.py script, to download any book from anyflip, where each .pdf page is a .jpg image.
+
+Just replace the variable 'URL' with the URL desired. I left a random book in there, as an example of the formatting needed.
